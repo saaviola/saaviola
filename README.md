@@ -32,10 +32,5 @@
 <br />
 <br />
 
----
-
-<br />
-
 [youtube]: https://www.youtube.com/channel/UCNkVLVJNtj9re1c2UXpzXIQ
 [Discord]: https://discordapp.com/users/865615627737366528
-
