@@ -36,9 +36,6 @@
 
 <br />
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheYurei&theme=dark&show_icons=true&hide_border=true" />
-<img align="right" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYurei&langs_count=100&theme=dark" />
-
 [youtube]: https://www.youtube.com/channel/UCNkVLVJNtj9re1c2UXpzXIQ
 [Discord]: https://discordapp.com/users/865615627737366528
 
